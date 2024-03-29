@@ -1,0 +1,28 @@
+html{font-size:62.5%!important;}
+@media screen and (min-width: 0\0){/* IE 9, IE 10, IE 11 */:root,html{font-size: 10px;}}
+@media screen and (-ms-high-contrast:active),(-ms-high-contrast:none){/* IE 10, IE 11 */:root,html{ font-size: 10px;}}
+*{box-sizing: border-box;letter-spacing:-.02em !important; margin: 0; padding: 0;}
+body{font-size:1.6rem; overflow: hidden;}
+ol,ul,li{
+    list-style:none;
+    margin: 0;
+    padding: 0;
+}
+button{
+    background: inherit ; border:none; box-shadow:none; border-radius:0; padding:0; overflow:visible; cursor:pointer; -webkit-tap-highlight-color : transparent !important;
+}
+a{
+    text-decoration:none; -webkit-tap-highlight-color : transparent !important;
+}
+img{
+    max-width:100%;
+}
+table{
+    padding:0;
+    border:0;
+    border-spacing:0px;
+    border-collapse:collapse;
+}
+th, td{
+    padding:0; 
+}
